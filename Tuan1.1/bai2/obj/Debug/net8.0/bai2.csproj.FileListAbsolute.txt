@@ -1,0 +1,14 @@
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\bin\Debug\net8.0\bai2.exe
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\bin\Debug\net8.0\bai2.deps.json
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\bin\Debug\net8.0\bai2.runtimeconfig.json
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\bin\Debug\net8.0\bai2.dll
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\bin\Debug\net8.0\bai2.pdb
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\bai2.AssemblyInfoInputs.cache
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\bai2.AssemblyInfo.cs
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\bai2.csproj.CoreCompileInputs.cache
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\bai2.dll
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\refint\bai2.dll
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\bai2.pdb
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\bai2.genruntimeconfig.cache
+D:\CODE\DNU_BACK_END\Tuan1.1\bai2\obj\Debug\net8.0\ref\bai2.dll

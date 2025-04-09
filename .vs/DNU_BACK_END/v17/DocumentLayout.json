@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\DNU_BACK_END\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CODE\\DNU_BACK_END\\code\\Tuan1.1.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\Tuan1.1.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CODE\\DNU_BACK_END\\code\\Tuan1.2.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\Tuan1.2.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CODE\\DNU_BACK_END\\code\\Tuan1.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\Tuan1.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tuan1.2.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BACK_END\\code\\Tuan1.2.cs",
+              "RelativeDocumentMoniker": "code\\Tuan1.2.cs",
+              "ToolTip": "D:\\CODE\\DNU_BACK_END\\code\\Tuan1.2.cs",
+              "RelativeToolTip": "code\\Tuan1.2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:26:37.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tuan1.1.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BACK_END\\code\\Tuan1.1.cs",
+              "RelativeDocumentMoniker": "code\\Tuan1.1.cs",
+              "ToolTip": "D:\\CODE\\DNU_BACK_END\\code\\Tuan1.1.cs",
+              "RelativeToolTip": "code\\Tuan1.1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:18:08.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tuan1.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BACK_END\\code\\Tuan1.cs",
+              "RelativeDocumentMoniker": "code\\Tuan1.cs",
+              "ToolTip": "D:\\CODE\\DNU_BACK_END\\code\\Tuan1.cs",
+              "RelativeToolTip": "code\\Tuan1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:02:00.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

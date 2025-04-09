@@ -1,0 +1,14 @@
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+D:\CODE\DNU_BACK_END\code\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
