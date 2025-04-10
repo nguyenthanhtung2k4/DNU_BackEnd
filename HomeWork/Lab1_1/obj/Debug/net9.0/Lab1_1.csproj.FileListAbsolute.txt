@@ -1,0 +1,15 @@
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\bin\Debug\net9.0\Lab1_1.exe
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\bin\Debug\net9.0\Lab1_1.deps.json
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\bin\Debug\net9.0\Lab1_1.runtimeconfig.json
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\bin\Debug\net9.0\Lab1_1.dll
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\bin\Debug\net9.0\Lab1_1.pdb
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\Lab1_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\Lab1_1.AssemblyInfoInputs.cache
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\Lab1_1.AssemblyInfo.cs
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\Lab1_1.csproj.CoreCompileInputs.cache
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\Lab1_1.sourcelink.json
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\Lab1_1.dll
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\refint\Lab1_1.dll
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\Lab1_1.pdb
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\Lab1_1.genruntimeconfig.cache
+D:\CODE\DNU_BackEnd\HomeWork\Lab1_1\obj\Debug\net9.0\ref\Lab1_1.dll
