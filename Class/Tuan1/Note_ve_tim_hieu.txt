@@ -1,0 +1,4 @@
+Tim hieu ve internal
+cau  tru  consollec  trong c#
+
+ tim hieu  ve Var

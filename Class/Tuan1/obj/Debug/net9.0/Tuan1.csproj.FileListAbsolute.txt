@@ -1,0 +1,15 @@
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\Tuan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\Tuan1.AssemblyInfoInputs.cache
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\Tuan1.AssemblyInfo.cs
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\Tuan1.csproj.CoreCompileInputs.cache
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\Tuan1.sourcelink.json
+D:\CODE\DNU_BackEnd\Class\Tuan1\bin\Debug\net9.0\Tuan1.exe
+D:\CODE\DNU_BackEnd\Class\Tuan1\bin\Debug\net9.0\Tuan1.deps.json
+D:\CODE\DNU_BackEnd\Class\Tuan1\bin\Debug\net9.0\Tuan1.runtimeconfig.json
+D:\CODE\DNU_BackEnd\Class\Tuan1\bin\Debug\net9.0\Tuan1.dll
+D:\CODE\DNU_BackEnd\Class\Tuan1\bin\Debug\net9.0\Tuan1.pdb
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\Tuan1.dll
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\refint\Tuan1.dll
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\Tuan1.pdb
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\Tuan1.genruntimeconfig.cache
+D:\CODE\DNU_BackEnd\Class\Tuan1\obj\Debug\net9.0\ref\Tuan1.dll
