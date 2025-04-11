@@ -30,10 +30,17 @@ internal class Program
         var temp=  var1;
         var1 =var2;
         var2= temp; 
-        
+
     }
 
+    // 4.1  định nghĩa delegate
+    // Kiểu trả về return type và  tham số phải trùng  với hàm muốn tham chiếu.
+    public  delegate int MyDelegate(int a ,  int b);
+    
+    private  static  int Tong(int x , int y){
+        return x+y;
 
+    }
 
     private static void Main(string[] args)
     {
@@ -155,8 +162,48 @@ internal class Program
 
         // 2.2 Method Genrics
         
+            int a =3; int b =5;
+            Swap<int> (ref a , ref  b);
+            
+            double a1 =3; double b1 =5;
+            Swap (ref a1 , ref  b1);
+            
+    // 3  Generics Collection
+        List<int> list =  new List<int>();
+        List<double> doubles =  new List<double>();
+        List<string> strings =  new List<string>();
+
+    // 4  delegate 
+        // Delegate  là một kiêu dũ liệu dùng để tham chiếu tới phương thức trong C# ( giống như  con trỏ C++)
+        //  ứng dụng  nhiều nhất trong   điện thoại
+            MyDelegate  myDelegate = new MyDelegate(Tong);//  cach1
+            MyDelegate  myDelegate1= Tong;
+            // THỰC THI
+            int result = myDelegate1(5,5);
+            Console.WriteLine($"Tong la: {result}");
+        //  Anonymouss  Methor (  Hàm lạc danh)
+            myDelegate=delegate(int x, int y){
+                return x+y;
+            };
+
+        // Lambda  Expression
+            myDelegate = ( x ,y )=>   x +y;
+        //  Ngoài các cách bên trên là tự định nghĩa
+        // Trong C# có hỗ trợ 3 loại  delegate
+            // - Action:  Bao bọc phương thức kiểu trả về void;
+            // - Predication :  Bao bọc phương thức kiểu trả vè Bool;
+            // - Func: Bao bọc phương thức có kiểu trả  về int ,  double...
 
 
+            // vd:
+            Func<int,  int , int> func = (x, y)=>  x+y;//  int
+
+            Predicate<int> predicate=  x =>  x>0; //  bool 
+
+            Action<int> action= x => Console.WriteLine(x); //  void
+
+            
+        
     }
     
 }

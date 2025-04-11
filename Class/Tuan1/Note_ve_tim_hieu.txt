@@ -1,4 +1,14 @@
 Tim hieu ve internal
-cau  tru  consollec  trong c#
+cau  tru  collections  trong c#
+cau  tru  non- collections  trong c#
 
  tim hieu  ve Var
+ tim hieu  ve ref 
+tim hieu ve bat  dong bo  va  dong bo  (  ReadKey() ???? )
+      Task  &  Task
+      
+
+
+
+
+   xem lai  code swap()  trong code  C# 
