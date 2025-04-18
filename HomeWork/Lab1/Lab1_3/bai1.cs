@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using Lab1;
 using System.Collections.Generic;
 
-public class Lab1_3
-{
-    class CanBo{
+// public class bai1
+// {
+     public class CanBo{
         public string HoTen{get; set;}
         public int NamSinh{get; set;}
         public string GioiTinh{get; set;}
@@ -91,29 +91,31 @@ public class Lab1_3
             NganhDaoTao = Console.ReadLine() ?? "Chua co nganh dao tao";
         }
     }
-    class QLCB{
+    public class QLCB{
         private List<CanBo> danhSachCanBo = new List<CanBo>();
 
         public void NhapThongTinMoi(){
-            Console.WriteLine("Nhap loai can bo (1: Cong nhan, 2: Ky su, 3: Nhan vien): ");
-            int loai = int.Parse(Console.ReadLine() ?? "0");
-            CanBo canBo;
-            switch(loai){
-                case 1:
-                    canBo = new CongNhan("", 0, "", "", "");
-                    break;
-                case 2:
-                    canBo = new KySu("", 0, "", "", "");
-                    break;
-                case 3:
-                    canBo = new NhanVien("", 0, "", "", "");
-                    break;
+            int  loai;
+                Console.WriteLine("Nhap loai can bo (1: Cong nhan, 2: Ky su, 3: Nhan vien) ==> ");
+                CanBo canBo;
+                loai = int.Parse(Console.ReadLine() ?? "0");
+                switch(loai){
+                    case 1:
+                        canBo = new CongNhan("", 0, "", "", "");
+                        break;
+                    case 2:
+                        canBo = new KySu("", 0, "", "", "");
+                        break;
+                    case 3:
+                        canBo = new NhanVien("", 0, "", "", "");
+                        break;
                 default:
                     Console.WriteLine("Loai can bo khong hop le!");
                     return;
-            }
-            canBo.NhapThongTin();
-            danhSachCanBo.Add(canBo);
+                }
+                canBo.NhapThongTin();
+                danhSachCanBo.Add(canBo);
+            
         }
 
         public void TimKiemTheoHoTen(){
@@ -138,4 +140,3 @@ public class Lab1_3
             Environment.Exit(0);
         }
     }
-}

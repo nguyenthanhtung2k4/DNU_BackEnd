@@ -7,8 +7,11 @@ cau  tru  non- collections  trong c#
 tim hieu ve bat  dong bo  va  dong bo  (  ReadKey() ???? )
       Task  &  Task
       
-
+      virtual 
 
 
 
    xem lai  code swap()  trong code  C# 
+
+
+LÀM HẾT CÁC LAB1
