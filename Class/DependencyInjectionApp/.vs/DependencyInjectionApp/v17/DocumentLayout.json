@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\code\\dnu_backend\\class\\dependencyinjectionapp\\dependencyinjectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\code\\dnu_backend\\class\\dependencyinjectionapp\\dependencyinjectionapp\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\code\\dnu_backend\\class\\dependencyinjectionapp\\dependencyinjectionapp\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\code\\dnu_backend\\class\\dependencyinjectionapp\\dependencyinjectionapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\code\\dnu_backend\\class\\dependencyinjectionapp\\dependencyinjectionapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\code\\dnu_backend\\class\\dependencyinjectionapp\\dependencyinjectionapp\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E79128-9827-49A2-8E91-ECD3886D682B}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\Program.cs",
+              "ToolTip": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:13:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Views\\Students\\index.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\Views\\Students\\index.cshtml",
+              "ToolTip": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Views\\Students\\index.cshtml",
+              "RelativeToolTip": "DependencyInjectionApp\\Views\\Students\\index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T08:50:55.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:41:33.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\Service\\StudentService.cs",
+              "ToolTip": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Service\\StudentService.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\Service\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:26:22.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\Service\\IStudentService.cs",
+              "ToolTip": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Service\\IStudentService.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\Service\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:22:27.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\Models\\Student.cs",
+              "ToolTip": "D:\\CODE\\DNU_BackEnd\\Class\\DependencyInjectionApp\\DependencyInjectionApp\\Models\\Student.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:30:15.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

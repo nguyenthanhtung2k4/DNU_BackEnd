@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>them khach hang </h1>
+
+@* <form action="/Customer/Create/NT2k4" method="post"> *@
+
+<form action="/Customer/Create?Name=NT2k4" method="post">
+    <div class="my-2">
+        <label>Id</label>
+        <input type="text" class="form-control" name="Id" />
+    </div>
+    <div class="my-2">
+        <label>Name</label>
+        <input type="text" class="form-control" name="Name" />
+    </div>
+    <div class="my-2">
+        <label>Age</label>
+        <input type="text" class="form-control" name="Age" />
+    </div>
+    <button class="btn btn-primary">Them moi</button>
+</form>
+
+

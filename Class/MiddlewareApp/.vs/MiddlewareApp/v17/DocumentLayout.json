@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\DNU_BackEnd\\Class\\MiddlewareApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{200FA035-CBD9-4F2E-BD55-45F4D9E553AC}|MiddlewareApp\\MiddlewareApp.csproj|d:\\code\\dnu_backend\\class\\middlewareapp\\middlewareapp\\middleware\\requesttimingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200FA035-CBD9-4F2E-BD55-45F4D9E553AC}|MiddlewareApp\\MiddlewareApp.csproj|solutionrelative:middlewareapp\\middleware\\requesttimingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200FA035-CBD9-4F2E-BD55-45F4D9E553AC}|MiddlewareApp\\MiddlewareApp.csproj|d:\\code\\dnu_backend\\class\\middlewareapp\\middlewareapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200FA035-CBD9-4F2E-BD55-45F4D9E553AC}|MiddlewareApp\\MiddlewareApp.csproj|solutionrelative:middlewareapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BackEnd\\Class\\MiddlewareApp\\MiddlewareApp\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareApp\\Program.cs",
+              "ToolTip": "D:\\CODE\\DNU_BackEnd\\Class\\MiddlewareApp\\MiddlewareApp\\Program.cs",
+              "RelativeToolTip": "MiddlewareApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:42:45.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestTimingMiddleware.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_BackEnd\\Class\\MiddlewareApp\\MiddlewareApp\\Middleware\\RequestTimingMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareApp\\Middleware\\RequestTimingMiddleware.cs",
+              "ToolTip": "D:\\CODE\\DNU_BackEnd\\Class\\MiddlewareApp\\MiddlewareApp\\Middleware\\RequestTimingMiddleware.cs",
+              "RelativeToolTip": "MiddlewareApp\\Middleware\\RequestTimingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:32:07.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

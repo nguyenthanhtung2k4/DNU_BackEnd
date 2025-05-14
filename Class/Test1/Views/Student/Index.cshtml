@@ -1,0 +1,24 @@
+﻿@model List<MyMvcApp.Models.Student>
+
+<h2>Danh sách sinh viên</h2>
+<a class="btn btn-success" asp-action="Create">Thêm mới</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên</th>
+            <th>Địa chỉ</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Adr</td>
+            </tr>
+        }
+    </tbody>
+</table>

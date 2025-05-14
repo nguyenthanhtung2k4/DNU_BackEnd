@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<a href="/Student/Create" class="btn  btn-link" >Them moi</a>
+<!-- HTML  Helper-->
+@Html.ActionLink("Them moi", "Create","Students", null, new {@class="btn btn-link"}))
+
+
+<!--Tag helper -->
+<a asp-action="Create" asp-controller="Students" class="btn btn-link"  >Them moi</a>

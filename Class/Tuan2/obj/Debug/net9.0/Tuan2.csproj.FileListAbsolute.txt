@@ -1,0 +1,8 @@
+D:\CODE\DNU_BackEnd\Class\Tuan2\obj\Debug\net9.0\Tuan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\DNU_BackEnd\Class\Tuan2\obj\Debug\net9.0\Tuan2.AssemblyInfoInputs.cache
+D:\CODE\DNU_BackEnd\Class\Tuan2\obj\Debug\net9.0\Tuan2.AssemblyInfo.cs
+D:\CODE\DNU_BackEnd\Class\Tuan2\obj\Debug\net9.0\Tuan2.csproj.CoreCompileInputs.cache
+D:\CODE\DNU_BackEnd\Class\Tuan2\obj\Debug\net9.0\Tuan2.MvcApplicationPartsAssemblyInfo.cache
+D:\CODE\DNU_BackEnd\Class\Tuan2\obj\Debug\net9.0\Tuan2.RazorAssemblyInfo.cache
+D:\CODE\DNU_BackEnd\Class\Tuan2\obj\Debug\net9.0\Tuan2.RazorAssemblyInfo.cs
+D:\CODE\DNU_BackEnd\Class\Tuan2\obj\Debug\net9.0\Tuan2.sourcelink.json

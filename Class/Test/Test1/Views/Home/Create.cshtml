@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model Test1.Models.Students
+
+<h2>Thêm sinh viên</h2>
+<form asp-action="Create" method="post">
+    <div>
+        <label>Tên:</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Lưu</button>
+</form>

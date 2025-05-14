@@ -1,0 +1,37 @@
+﻿@model List<DependencyInjectionApp.Models.Student>
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>Danh sách sinh viên</h1>
+
+<div class="container col-md-8 offset-md-2">
+    <h3>Danh sách hiển thị sinh viên</h3>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>MSV</th>
+                    <th>Name</th>
+                    <th>Phone number</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var student in Model)
+                {
+                    <tr>
+                        <td>@student.Id</td>
+                        <td>@student.Name</td>
+                        <td>@student.Phone</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Không có dữ liệu sinh viên.</p>
+    }
+</div>

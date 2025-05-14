@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Test1.Models.Students>
+
+<h2>Danh sách sinh viên</h2>
+<a asp-action="Create" class="btn btn-primary">Thêm mới</a>
+<table class="table">
+    <thead>
+        <tr><th>ID</th><th>Name</th></tr>
+    </thead>
+    <tbody>
+    @foreach (var item in )
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tuan3.props" />
+</Project>

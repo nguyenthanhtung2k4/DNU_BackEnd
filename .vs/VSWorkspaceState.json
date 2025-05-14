@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\code"
+    "\\Class",
+    "\\Class\\Tuan2",
+    "\\Class\\Tuan2\\Controllers"
   ],
-  "SelectedNode": "\\code\\Tuan1.1.cs",
+  "SelectedNode": "\\Class\\Tuan2\\Controllers\\HelloController1.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    //  C# viet lai 
+    var today = DateTime.Now.ToShortDateString();
+    string name="Nguyen thanh tung";
+    string role = "admin";
+
+}
+
+<h4>Hom nay la : @today</h4>
+<h1>Xin chao  @name</h1>
+@if (@role == "admin"){
+    <p  class="alert-black text-white"> ban co quyen quan ly he thong</p>
+
+}
+else
+{
+    <p class="alert-danger text-blue"> ban la nguoi dung</p>
+}
+<p> Status:
+    @{
+        string status = "done";
+        switch(status){
+            case "not done":
+                <b>chu  xong</b>
+                break;
+            case "done":
+                <b>Da xong</b>
+                break;
+            case "refuse":
+                <b>Tu choi</b>
+                break;
+
+        }
+    }
+</p>
+
+
+<!-- Cấu trúc lặp for -->
+<!-- ////////////////////////////////////////////////////////////////-->
+@for ( int i= 0; i <= 5;i ++)
+{
+    <b>Vòng lặp thứ  @i</b><br>
+
+}
+
+
+<!-- Cấu trúc While-->
+<!-- ////////////////////////////////////////////////////////////////-->
+@{
+    List<string> menus = new List<string>()
+    {
+        "Trang chu","San Pham","Gioi thieu","Lien he"
+    };
+    int j = 0;
+}
+<div class="container-fluid">
+    <nav class="navbar navbar-expand-md bg-black">
+        <ul class="navbar-nav">
+            @while (j < menus.Count)
+            {
+                <li class="nav-item">
+                    <a class="nav-link">@menus[j]</a>
+                </li>
+                j++;
+            }
+
+        </ul>
+    </nav>
+</div>
+
+
+
+<!-- Cấu trúc Foreach-->
+<!-- ////////////////////////////////////////////////////////////////-->
+@{
+    List<string> flows = new List<string>()
+    {
+        "lan",
+        "hoa",
+        "Dao"
+    };
+}
+@foreach (var item in flows)
+{
+    <p class="alert  alert-danger text-black-50">Flow: @item</p>
+}
+
+<!-- Khai bao Function-->
+<!-- ////////////////////////////////////////////////////////////////-->
+@functions{
+    public string SayHello(String name)
+    {
+        return $"Thanhtung la  anh {name}";
+    }
+}
+
+
+<div class="bg-green">
+    thanhtung @SayHello("Tung");
+</div>
+

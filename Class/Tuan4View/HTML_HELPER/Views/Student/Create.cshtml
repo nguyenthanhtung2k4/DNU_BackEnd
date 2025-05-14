@@ -1,0 +1,97 @@
+﻿@model HTML_HELPER.Models.Students
+@{
+    ViewData["Title"] = "Student";
+}
+
+@* <h1>Create</h1> *@
+@* <div class="container-fluid">  *@
+@*     <form action="/Student/Save" method="post"> *@
+@*         @{Html.BeginForm("Save", "Students","Post");} *@
+@*         <div class="mt-3"> *@
+@*             <label for="id">MSV</label> *@
+@*             <input type="number" name="id", id="id" class="form-control" /> *@
+@*         </div> *@
+@*         <div class="mt-3"> *@
+@*             <label for="name">Name</label> *@
+@*             <input type="text" name="id", id="name" class="form-control" /> *@
+@*         </div> *@
+@*         <div class="mt-3"> *@
+@*             <label for="adress">Adress</label> *@
+@*             <input type="text" name="id" , id="adress" class="form-control" /> *@
+@*         </div> *@
+
+@*         <button type="submit" class="btn btn-danger mt-3 ">Them  vao</button> *@
+
+
+@*     </form> *@
+@* </div> *@
+
+<!-- HTML  Heplper 
+    ??????????????????????????????????????????????????????????????????????????????????????????
+-->
+
+@* <h1>Create</h1> *@
+@* <div class="container-fluid"> *@
+@*     @{ *@
+@*         Html.BeginForm("Save", "Student", "post"); *@
+@*     } *@
+
+@*         <div class="mt-3"> *@
+@*             @Html.Label("Id", "Ma Sinh Vien") *@
+@*             @Html.TextBox("Id","",new{@type="number",@class="form-control" }) *@
+@*         </div> *@
+@*         <div class="mt-3"> *@
+            
+@*             @Html.Label("name", "Name") *@
+@*             @Html.TextBox("name", "", new { @type = "text", @class = "form-control" }) *@
+@*         </div> *@
+@*         <div class="mt-3"> *@
+           
+@*             @Html.Label("adress", "Adress") *@
+@*             @Html.TextBox("adress", "", new { @type = "text", @class = "form-control" }) *@
+@*         </div> *@
+
+@*         <button type="submit" class="btn btn-danger mt-3 ">Them  vao</button> *@
+
+
+@*     @{Html.EndForm();} *@
+@* </div> *@
+
+
+
+
+
+
+
+<!-- Sinh giao dien theo  models 
+    ???????????????????????????????????????????????????????????????????????????????????????
+-->
+
+<h1>Create</h1>
+<div class="container-fluid">
+    @{
+        Html.BeginForm("Save", "Student", "post");
+    }
+
+    <div class="mt-3">
+        @Html.Label("Id", "Ma Sinh Vien")
+        @Html.TextBox("Id", "", new { @type = "number", @class = "form-control" })
+    </div>
+    <div class="mt-3">
+
+        @Html.Label("name", "Name")
+        @Html.TextBox("name", "", new { @type = "text", @class = "form-control" })
+    </div>
+    <div class="mt-3">
+
+        @Html.Label("adress", "Adress")
+        @Html.TextBox("adress", "", new { @type = "text", @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-danger mt-3 ">Them  vao</button>
+
+
+    @{
+        Html.EndForm();
+    }
+</div>

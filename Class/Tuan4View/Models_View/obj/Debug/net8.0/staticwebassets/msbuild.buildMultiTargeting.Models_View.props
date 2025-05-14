@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Models_View.props" />
+</Project>

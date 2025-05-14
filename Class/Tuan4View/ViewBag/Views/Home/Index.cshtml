@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var  names=ViewData["names"] as  List<String>;
+
+}
+
+<div class="Container">
+    <p class="alert alert-success text-truncate"> Du lieu la  @ViewBag.message1</p>
+    <p class="alert alert-success"> Du lieu la  @ViewData["message2"]</p>
+    @foreach ( var irem  in names)
+    {
+        <p>@irem</p>
+    }
+</div>

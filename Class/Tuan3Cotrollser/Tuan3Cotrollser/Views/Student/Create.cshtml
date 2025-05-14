@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+
+@* C1    lay requests ReceiveWithRequest *@
+    @* <form asp-action="ReceiveWithRequest"> *@
+
+@* C2    lay requests  ReceiveFormCollection*@
+    @* <form asp-action="ReceiveFormCollection"> *@
+
+@* C3  ActionArguments  *@
+    @* <form asp-action="ActionArguments"> *@
+
+
+@* C4  ReceiveWithModels *@
+<form asp-action="ReceiveWithModels">
+    <div class="my-2">
+        <label>Id</label>
+       <input type="text" name="Id" class="form-control" />
+    </div>
+    <div class="my-2">
+        <label>Name</label>
+        <input type="text" name="Name" class="form-control" />
+    </div>
+    <div class="my-2">
+        <label>Adr</label>
+        <input type="text" name="Adr" class="form-control" />
+    </div>
+    <button class="btn btn-primary">
+        Them moi
+    </button>
+</form>

@@ -1,0 +1,7 @@
+Tìm hiểu về MVC  ? 
+Tìm hiểu về cách sử dụng  định tuyến routing  trong C#
+        MapControllerRoute()   dinh tuyen
+        có hai cách tạo route 
+            1 là ưua program.cs 
+            2 là viết trưc tiếp qua route  qua file HOMECollter luôn. 
+            

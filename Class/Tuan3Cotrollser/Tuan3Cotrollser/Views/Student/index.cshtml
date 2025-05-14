@@ -1,0 +1,28 @@
+﻿@model List<Tuan3Cotrollser.Models.Student>
+@{
+    ViewData["Title"] = "Student";
+}
+
+<h1>Student List</h1>
+
+<a class="btn btn-primary my-3" asp-action="Create">Thêm mới</a>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Adr</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Adr</td>
+            </tr>
+        }
+    </tbody>
+</table>
